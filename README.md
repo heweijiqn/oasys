@@ -4,9 +4,7 @@
 #### 项目介绍
 - 基于springboot框架开发的项目，mysql底层数据库，前端采用freemarker模板引擎，Bootstrap作为前端UI框架
 - 集成了jpa、mybatis等框架
-- 
-#### 项目结构
-![项目结构](https://images.gitee.com/uploads/images/2018/0926/164310_e781580c_1277461.png "项目结构目录.png")
+  
 
 #### 前端技术
 Freemarker + Bootstrap + Jquery
@@ -22,11 +20,7 @@ SpringBoot + MyBatis + Spring-Data-Jpa+ Fastjson
 		4. OasysApplication.java中的main方法运行，控制台没有报错信息，数据启动时间多久即运行成功
 		5. 在浏览器中输入localhost:8088/logins
 
-###  项目截图
-
-![演示1.gif](https://images.gitee.com/uploads/images/2019/0927/141250_aeec4d38_1277461.gif)
-![演示4.gif](https://i.loli.net/2018/09/26/5bab4565b121e.gif)
-![演示3.gif](https://images.gitee.com/uploads/images/2019/0927/141251_4ef0327c_1277461.gif)
+###  运行结果
 
 ![主页面.png](https://images.gitee.com/uploads/images/2019/0927/141250_2286d104_1277461.png)
 ![登陆页面.png](https://images.gitee.com/uploads/images/2019/0927/141250_f5277aa8_1277461.png)
